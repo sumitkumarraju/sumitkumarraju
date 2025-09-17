@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center">A passionate Developer & Tech Explorer</h3>
+<h3 align="center">GoodBoy Developer</h3>
 
 <p align="center">
 <img width="500" height="500" alt="image" src="https://i.pinimg.com/originals/ef/78/ab/ef78ab78dfd55dd03a51c6ce54fb393b.gif" />  
@@ -27,16 +27,7 @@
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
 
----
 
--  B.Tech CSE Student at **Chandigarh University (2028)**  
--  Passionate about **AI, Astronomy, and Space Exploration**  
--  Love building **Web & Mobile apps** with modern frameworks  
--  Into **Photography & Cinematography** when not coding  
-
-
-
----
 
 ### 🌐 My Social Links - 
 
