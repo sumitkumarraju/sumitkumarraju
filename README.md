@@ -25,39 +25,18 @@
 
 ---
 
-### 🚀 About Me  
-- 🎓 B.Tech CSE Student at **Chandigarh University (2028)**  
-- 💡 Passionate about **AI, Astronomy, and Space Exploration**  
-- 💻 Love building **Web & Mobile apps** with modern frameworks  
-- 📸 Into **Photography & Cinematography** when not coding  
+###  About Me  
+-  B.Tech CSE Student at **Chandigarh University (2028)**  
+-  Passionate about **AI, Astronomy, and Space Exploration**  
+-  Love building **Web & Mobile apps** with modern frameworks  
+-  Into **Photography & Cinematography** when not coding  
 
----
-
-### 🛠️ Tech Stack  
-
-**💻 Languages**  
-`C` `C++` `JavaScript` `TypeScript`  
-
-**🎨 Frontend**  
-`React` `Next.js` `Vite` `Tailwind CSS` `Framer Motion` `React Native`  
-
-**⚙️ Backend**  
-`Node.js` `Express.js` `MongoDB` `PostgreSQL`  
-
-**🛠️ Tools & Platforms**  
-`VS Code` `Docker` `Railway` `GitHub` `Postman`  
-
----
-
-### 📊 GitHub Stats  
+###  GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumitkumar&show_icons=true&theme=radical" alt="Sumit Kumar's GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkumar&theme=radical" alt="Sumit Kumar's streak" />
-</p>
 
 ---
 
