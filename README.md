@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer & Tech Explorer</h3>
 
 <p align="center">
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4be1fe46-8d5a-4406-a000-f9ee233f761e" />  
+<img width="200" height="200" alt="image" src="https://i.pinimg.com/originals/ef/78/ab/ef78ab78dfd55dd03a51c6ce54fb393b.gif" />  
 </p>
 
 ---
@@ -35,11 +35,6 @@
 -  Love building **Web & Mobile apps** with modern frameworks  
 -  Into **Photography & Cinematography** when not coding  
 
-###  GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitkumar&show_icons=true&theme=radical" alt="Sumit Kumar's GitHub stats" />
-</p>
 
 
 ---
