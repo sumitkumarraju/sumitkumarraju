@@ -29,7 +29,6 @@
 
 ---
 
-###  About Me  
 -  B.Tech CSE Student at **Chandigarh University (2028)**  
 -  Passionate about **AI, Astronomy, and Space Exploration**  
 -  Love building **Web & Mobile apps** with modern frameworks  
@@ -39,7 +38,7 @@
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 My Social Links - 
 
 <p align="center">
   <a href="https://github.com/sumitkumar"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=plastic&logo=github&logoColor=white" /></a>
