@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate Developer & Tech Explorer</h3>
 
+<p align="center">
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4be1fe46-8d5a-4406-a000-f9ee233f761e" />  
+</p>
+
 ---
 
 <p align="center">
