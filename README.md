@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer & Tech Explorer</h3>
 
 <p align="center">
-<img width="200" height="200" alt="image" src="https://i.pinimg.com/originals/ef/78/ab/ef78ab78dfd55dd03a51c6ce54fb393b.gif" />  
+<img width="500" height="500" alt="image" src="https://i.pinimg.com/originals/ef/78/ab/ef78ab78dfd55dd03a51c6ce54fb393b.gif" />  
 </p>
 
 ---
