@@ -1,11 +1,24 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">GoodBoy Developer</h3>
+<h3 align="center">🚀 Full Stack & Web3 Developer | Creative UI Builder </h3>
+
+
+
+
 
 <p align="center">
 <img width="500" height="500" alt="image" src="https://i.pinimg.com/originals/ef/78/ab/ef78ab78dfd55dd03a51c6ce54fb393b.gif" />  
 </p>
 
----
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sumitkumar&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumar&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C" />
@@ -25,14 +38,22 @@
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Railway-%230B0D0E.svg?style=plastic&logo=railway&logoColor=white" alt="Railway" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-</p>
 
 
 
-### 🌐 My Social Links - 
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/sumitkumar"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=plastic&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sumitkumar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sumit@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/sumitkumar"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://linkedin.com/in/sumitkumar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:suitts317@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://skrdev.me"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/></a>
+  <a href="https://x.com/skr_exe"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/></a>
 </p>
+
+
+  
+</p>
+
+
+
