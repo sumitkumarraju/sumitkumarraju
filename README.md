@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">GoodBoy Developer</h3>
-<h3 align="center">🚀 Full Stack & Web3 Developer | Creative UI Builder </h3>
+<h3 align="center">🚀 Full Stack & Web3 Developer |  UI-UX Builder </h3>
 
 
 
